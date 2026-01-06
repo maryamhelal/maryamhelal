@@ -35,12 +35,3 @@
 </div>
 
 ###
-
-<h2 align="left">How to reach me</h2>
-
-###
-
-<p align="left">Email: maryam.helaal22@gmail.com </p>
-<p align="left">Phone number: +201021461806 </p>
-
-###
